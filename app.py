@@ -135,3 +135,5 @@ ax6.set_xlabel("Discount")
 ax6.set_ylabel("Profit")
 plt.tight_layout()
 st.pyplot(fig6, use_container_width=True)
+
+# new change
